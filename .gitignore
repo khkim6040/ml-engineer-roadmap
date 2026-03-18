@@ -30,3 +30,6 @@ Thumbs.db
 *.h5
 *.pkl
 !**/example_*.csv
+
+# OMC
+.omc/
