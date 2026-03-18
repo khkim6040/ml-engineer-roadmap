@@ -1,4 +1,4 @@
-# 🧠 ML Engineer Roadmap
+# ML Engineer Roadmap
 
 > 백엔드 개발자가 MLE Interview 2.0을 소화하기 위한 로드맵
 >
